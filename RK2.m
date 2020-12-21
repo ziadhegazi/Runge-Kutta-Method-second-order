@@ -1,3 +1,5 @@
+% ---Matlab Code---
+
 %User's inputs
 
 h = input("Please enter the step length: ");
@@ -7,7 +9,7 @@ Y0 = input("Please enter the initial value of Y:");
 X = input("Please enter the desired value of X to find the value of Y(X): ");
 
 % -------------------------------------------------------------------------------
-%Holds the X and Y to not change the origininal inputs
+%Holds the X and Y to not change the original inputs
 
 a = X0;
 b = Y0;

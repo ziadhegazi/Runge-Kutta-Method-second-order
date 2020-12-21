@@ -9,7 +9,7 @@ Y0 = float(input("Please enter the initial value of Y:"))
 X = float(input("Please enter the value of X to find the value of Y(X): "))
 
 # -------------------------------------------------------------------------------
-# 
+# Holds the X and Y to not change the original inputs
 a = X0
 b = Y0
 
