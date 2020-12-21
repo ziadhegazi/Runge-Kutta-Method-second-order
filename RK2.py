@@ -18,7 +18,7 @@ b = Y0
 # Here is the function calculation
 
 def Function(x,y):
-    # This the the equation
+    # This is the equation
     F = (5/50)*(1-math.exp(-50*x))
     # Change Equation to any other desired equation
     return F
